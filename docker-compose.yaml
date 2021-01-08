@@ -11,8 +11,8 @@ services:
       - "8080:8080" 
     restart: unless-stopped
     environment:
-      SPACES_KEY: OORW26VV4QCAYELZJMG7
-      SPACES_SECRET: YxBt71YS3sL9FeZ+JffJ0jQIpoyv00fiq3Lv/Z2/aGw
+      SPACES_KEY: add
+      SPACES_SECRET: add
 
 
 
