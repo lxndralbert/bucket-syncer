@@ -1,4 +1,4 @@
-FROM golang:1.15.6-buster
+FROM golang:1.16.8-buster
 
 RUN apt update && apt upgrade -y
 
